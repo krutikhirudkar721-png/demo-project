@@ -2,3 +2,7 @@
 This is My First Git Ripository.
 <br>
 Author - Krutik Hirudkar
+<br>
+Education - Learning In S.B. Jain Collage,Nagpur 
+<br>
+Program - B.Tech[CSE]
