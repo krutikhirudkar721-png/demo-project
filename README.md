@@ -5,4 +5,4 @@ Author - Krutik Hirudkar
 <br>
 Education - Learning In S.B. Jain Collage,Nagpur 
 <br>
-Program - B.Tech[CSE]
+Program/Degree - B.Tech[CSE]
